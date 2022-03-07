@@ -30,3 +30,8 @@ export BUILD_VERSION=0.7.0
 
 sudo python3 setup.py install
 ```
+
+** check jetpack **
+```
+head -n 1 /etc/nv_tegra_release
+```
