@@ -1,6 +1,6 @@
 # jetson
 
-# yolov5
+# yolov5  **https://forums.developer.nvidia.com/t/pytorch-for-jetson-version-1-10-now-available/72048**
 ```
 sudo apt-get update
 
@@ -31,7 +31,7 @@ export BUILD_VERSION=0.7.0
 sudo python3 setup.py install
 ```
 
-# tensorflow
+# tensorflow  **https://forums.developer.nvidia.com/t/official-tensorflow-for-jetson-nano/71770**
 
 **check jetpack**
 ```
